@@ -27,7 +27,7 @@ allprojects {
 }
 ```
 
-**Step 2.** Add the dependency. `version:` [![](https://jitpack.io/v/fcat97/TajweedApi.svg)](https://jitpack.io/#fcat97/TajweedApi)
+**Step 2.** Add the dependency. `version:` [![](https://jitpack.io/v/fcat97/tajweedApi-android.svg)](https://jitpack.io/#fcat97/tajweedApi-android)
 
 ```gradle
 dependencies {
